@@ -1,6 +1,14 @@
 import xlsxwriter
 import random
 
+#*********************************
+
+#Please download the above libraries
+#first before running the code!
+
+#*********************************
+
+
 #Timerline ski hours are TYPICALLY:
 # 9 am --> 4 pm 
 # 7 hours: Data every half hour = 14 datapoints
